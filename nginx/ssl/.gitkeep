@@ -1,0 +1,2 @@
+# This file is here to ensure the ssl directory is tracked by Git
+# SSL certificates should be added to this directory in production 
