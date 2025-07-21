@@ -13,7 +13,7 @@ A secure and scalable chatbot application featuring a REST API using Python, Fla
 
 ## Swagger UI
 
-![Swagger UI](screenshot\Leadership-chatbot-api.png)
+![Swagger UI](\screenshot\Leadership-chatbot-api.png)
 
 ## Prerequisites
 
